@@ -3,9 +3,10 @@ body {
 }
 h1 {
     margin: 0;
+    color: blueviolet;
 }
 p {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     margin: 0;
 }
 .container {
