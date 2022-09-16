@@ -1,9 +1,14 @@
 body {
     margin: 0;
 }
-h1 {
+h1, h2, h3 {
     margin: 0;
+}
+h1 {
     color: #002999;
+}
+h3 {
+    margin-bottom: 1rem;
 }
 p {
     font-size: 1.6rem;
