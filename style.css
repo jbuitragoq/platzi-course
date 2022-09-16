@@ -1,3 +1,10 @@
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+html {
+    box-sizing: border-box;
+}
 body {
     margin: 0;
 }
@@ -18,4 +25,13 @@ p {
     margin-top: 2rem;
     padding: 0rem 15rem;
     max-width: 80%;
+}
+footer {
+    background-color: #aac5ff;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-weight: 600;
 }
